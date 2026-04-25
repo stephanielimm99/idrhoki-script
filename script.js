@@ -1174,9 +1174,9 @@ function createApkBox() {
         <div class="label">Pilih Link Alternatif:</div>
 
         <select id="altLink">
-          <option value="#">#</option>
-          <option value="#">#</option>
-          <option value="#">#</option>
+          <option value="hoki.linkresmiidrhoki.xyz">hoki.linkresmiidrhoki.xyz</option>
+          <option value="hoki2.linkresmiidrhoki.xyz">hoki2.linkresmiidrhoki.xyz</option>
+          <option value="hoki.linkresmiidrhoki.xyz">hoki3.linkresmiidrhoki.xyz</option>
         </select>
 
         <button class="copy-btn" type="button" id="copyAltLinkBtn">Salin Link</button>
