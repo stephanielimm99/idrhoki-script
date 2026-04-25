@@ -1194,8 +1194,8 @@ function createApkBox() {
       </div>
 
       <div class="right-panel">
-        <a href="#" target="_blank">
-          <img src="#" alt="Download APK IDRHOKI">
+        <a href="https://storetn.in/IDRHOKI/idrhoki.apk" target="_blank">
+          <img src="https://imgstorage.site/view/berlin/download-apk-1.png" alt="Download APK IDRHOKI">
         </a>
       </div>
     </div>
